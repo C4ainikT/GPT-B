@@ -72,4 +72,4 @@ async def chat(interaction: disnake.AppCmdInter):
     except asyncio.TimeoutError:
         await interaction.send("**Вы не ввели вопрос вовремя. Попробуйте снова командой /chat.**")
 
-bot.run("MTE1MDc1OTQ0MDk4Mzc4OTYyMA.GJUwGe.f3WN2fE4Mbga60A-14FnZOft3T__mSp-uxS11U")
+bot.run("ваш токен")
