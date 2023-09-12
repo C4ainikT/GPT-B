@@ -13,7 +13,7 @@
 
 - Модель не понимает Некоторые Вставки - Запрос!
 
-- Пригласить Бота на свой Сервер: [Приглашение на Сервер.](https://discord.com/api/oauth2/authorize?client_id=1150759440983789620&permissions=3072&scope=bot)
+- Вы также можете Пригласить Бота на свой Сервер: [Приглашение на Сервер.](https://discord.com/api/oauth2/authorize?client_id=1150759440983789620&permissions=3072&scope=bot)
 
 ***
 
